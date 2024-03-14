@@ -1,0 +1,13 @@
+## DIRECTORIES
+MAIL_PASSWORD=
+DOCKER_DIR="/home/saidou/docker"
+DOCKER_SECRETS="/home/saidou/docker/secrets"
+BACKUP_DIR="/mnt/backups"
+HOME_DIR="/home/saidou"
+ROOT_DIR="/"
+
+## GLOBAL
+TZ=Europe/Brussels
+DOMAINNAME=
+EMAIL=
+LOCAL_IP=10.10.30.50
